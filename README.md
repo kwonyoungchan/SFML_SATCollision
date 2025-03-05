@@ -1,2 +1,7 @@
-# SFML_SATCollision
-SAT Collision 스터디 
+# SFML_Base
+위 리포지토리는 SFML 프레임워크 기반 게임 베이스 이다. 
+
+## 목적 
+- State 단위의 모듈로 개발하기 위함
+- 게임의 레벨관리를 편리하게 하기 위함
+
